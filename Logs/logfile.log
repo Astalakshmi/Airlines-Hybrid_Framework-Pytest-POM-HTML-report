@@ -1,0 +1,20 @@
+2024-04-21 00:43:55,748 :INFO : Test_001_HomePage :**********************Test_001_HomePage*********************
+2024-04-21 00:43:55,748 :INFO : Test_001_HomePage :**********************Verifying Home Page Title*************
+2024-04-21 00:43:55,753 :INFO : Test_001_HomePage :**********************Home Page Title is Passed*************
+2024-04-21 00:44:06,524 :INFO : Test_001_HomePage :**********************Verifying Booking_Flights_Functionality*************
+2024-04-21 00:45:07,108 :ERROR : Test_001_HomePage :**********************Book Flights TItle is Failed*************
+2024-04-22 22:59:11,593 :INFO : Test_001_HomePage :**********************Test_001_HomePage*********************
+2024-04-22 22:59:11,595 :INFO : Test_001_HomePage :**********************Verifying Home Page Title*************
+2024-04-22 22:59:11,615 :INFO : Test_001_HomePage :**********************Home Page Title is Passed*************
+2024-04-22 22:59:26,297 :INFO : Test_001_HomePage :**********************Verifying Booking_Flights_Functionality*************
+2024-04-22 23:01:29,875 :ERROR : Test_001_HomePage :**********************Book Flights TItle is Failed*************
+2024-04-22 23:06:08,223 :INFO : Test_001_HomePage :**********************Test_001_HomePage*********************
+2024-04-22 23:06:08,224 :INFO : Test_001_HomePage :**********************Verifying Home Page Title*************
+2024-04-22 23:06:08,251 :INFO : Test_001_HomePage :**********************Home Page Title is Passed*************
+2024-04-22 23:06:22,508 :INFO : Test_001_HomePage :**********************Verifying Booking_Flights_Functionality*************
+2024-04-22 23:08:45,791 :INFO : Test_001_HomePage :**********************Booking Flights Title is Passed*************
+2024-04-22 23:56:26,101 :INFO : Test_001_HomePage :**********************Test_001_HomePage*********************
+2024-04-22 23:56:26,102 :INFO : Test_001_HomePage :**********************Verifying Home Page Title*************
+2024-04-22 23:56:26,124 :INFO : Test_001_HomePage :**********************Home Page Title is Passed*************
+2024-04-22 23:56:39,616 :INFO : Test_001_HomePage :**********************Verifying Booking_Flights_Functionality*************
+2024-04-22 23:59:03,714 :INFO : Test_001_HomePage :**********************Successfully Redirect to Flight 1 - Choose flights page *************

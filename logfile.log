@@ -1,0 +1,5 @@
+2024-04-20 22:26:47,958 :INFO : Test_001_HomePage :**********************Test_001_HomePage*********************
+2024-04-20 22:26:47,958 :INFO : Test_001_HomePage :**********************Verifying Home Page Title*************
+2024-04-20 22:26:48,003 :INFO : Test_001_HomePage :**********************Home Page Title is Passed*************
+2024-04-20 22:26:58,252 :INFO : Test_001_HomePage :**********************Verifying Booking_Flights_Functionality*************
+2024-04-20 22:27:43,975 :INFO : Test_001_HomePage :**********************Booking Flights Title is Passed*************
